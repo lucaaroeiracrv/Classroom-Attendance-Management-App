@@ -25,5 +25,3 @@ The **Classroom Attendance Management App** is a React Native application design
 - **ManageClassScreen**: Edit and delete classes and students.
 - **StatisticsScreen**: Calculate and view attendance statistics.
 
-## 📚 **How to Run the Project**
-
